@@ -2,6 +2,8 @@
 
 ## In development
 
+* Fixed translations that disappeared when building a new release
+
 ## v1.0.1
 
 * Fixed that password could not be changed.
